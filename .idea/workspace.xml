@@ -19,32 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b11330c8-fd6d-4283-a462-446e7625d7f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.sass-cache/562764197dd3908a383cdfbe37c4fe3cab0f05f5/bootstrap.scssc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.scc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.scc.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paintings/flowers.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paintings/girl.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paintings/jungle.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paintings/maggie.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paintings/mika.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paintings/shoes.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paintings/skull.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paintings/valo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshot8.png" afterDir="false" />
-    </list>
+    <list default="true" id="b11330c8-fd6d-4283-a462-446e7625d7f8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +68,7 @@
       <workItem from="1597304020501" duration="889000" />
       <workItem from="1597305409295" duration="6000" />
       <workItem from="1597305444040" duration="10000" />
-      <workItem from="1597305472460" duration="15546000" />
+      <workItem from="1597305472460" duration="16139000" />
     </task>
     <servers />
   </component>
